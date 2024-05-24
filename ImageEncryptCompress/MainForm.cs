@@ -64,7 +64,7 @@ namespace ImageEncryptCompress
         public static void SaveBitmap(Bitmap bitmap)
         {
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
-            saveFileDialog1.FileName = "C:\\Users\\momoa\\Downloads\\tmp\\[TEMPLATE] ImageEncryptCompress";
+            saveFileDialog1.FileName = "out";
             saveFileDialog1.Filter = "bmp files (*.bmp)|*.bmp|All files (*.*)|*.*";
             saveFileDialog1.RestoreDirectory = true;
 
@@ -96,7 +96,7 @@ namespace ImageEncryptCompress
 
             Stopwatch stopwatch_DD = new Stopwatch();
             stopwatch_DD.Start();
-            string filepath = "C:\\Users\\momoa\\Downloads\\tmp\\[TEMPLATE] ImageEncryptCompress\\huff_out.bin";
+            string filepath = "C:\\fos_cygwin\\FOS_CODES\\FOS_PROJECT_2023_TEMPLATE\\Image-Encryption-and-Compression\\huff_out.bin";
             var items = ImageOperations.decompress(filepath);
             var items2 = ImageOperations.Decryption(items.Item1, items.Item2, items.Item3);
             stopwatch_DD.Stop();

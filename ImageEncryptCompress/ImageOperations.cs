@@ -627,28 +627,11 @@ namespace ImageEncryptCompress
 
                 }
             }
-           // double elapsedTime = stopwatch.Elapsed.TotalSeconds;
-          
-            // elapsedTime = stopwatch.Elapsed; 
 
-            //  Console.WriteLine(tupleMap.Count);
             return (ImageMatrix);
         }
 
-        /* public static void DFS(node node, string value, string color, ref Dictionary<int, string> R_huffman_output, ref Dictionary<int, string> G_huffman_output, ref Dictionary<int, string> B_huffman_output)
-         {
-             if (node.value != -1)
-             {
-                 if (color == "RED") R_huffman_output[node.value] = value;
-                 else if (color == "GREEN") G_huffman_output[node.value] = value;
-                 else B_huffman_output[node.value] = value;
-                 return;
-             }
-
-             DFS(node.left, value + "0", color, ref R_huffman_output, ref G_huffman_output, ref B_huffman_output);
-             DFS(node.right, value + "1", color, ref R_huffman_output, ref G_huffman_output, ref B_huffman_output);
-         }
- */
+    
 
         public static void DFS(node node, string value,string s ,ref Dictionary<int, string> R_huffman_output, ref Dictionary<int, string> G_huffman_output, ref Dictionary<int, string> B_huffman_output)
         {
@@ -937,7 +920,7 @@ namespace ImageEncryptCompress
 
             //[3]write the tree output in file
             Encoding encoding = Encoding.UTF8;
-            using (BinaryWriter BW = new BinaryWriter(File.Open("C:\\Users\\momoa\\Downloads\\tmp\\[TEMPLATE] ImageEncryptCompress\\huff_out.bin", FileMode.Create), encoding))
+            using (BinaryWriter BW = new BinaryWriter(File.Open("C:\\fos_cygwin\\FOS_CODES\\FOS_PROJECT_2023_TEMPLATE\\Image-Encryption-and-Compression\\huff_out.bin", FileMode.Create), encoding))
             {
                 string str = InitialSeed;
                 for (int j = 0; j < str.Length; j++)

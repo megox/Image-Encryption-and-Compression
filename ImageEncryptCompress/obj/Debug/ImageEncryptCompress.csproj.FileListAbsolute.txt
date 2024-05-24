@@ -79,3 +79,13 @@ C:\Users\momoa\Downloads\tmp\tmp\[TEMPLATE] ImageEncryptCompress\ImageEncryptCom
 C:\Users\momoa\Downloads\tmp\tmp\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
 C:\Users\momoa\Downloads\tmp\tmp\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
 C:\Users\momoa\Downloads\tmp\tmp\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\fos_cygwin\FOS_CODES\FOS_PROJECT_2023_TEMPLATE\Image-Encryption-and-Compression\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
